@@ -517,7 +517,7 @@
     </comp>
     <comp lib="8" loc="(348,1111)" name="Text">
       <a name="color" val="#de14af"/>
-      <a name="text" val="NitroCompute ISA (N-ISA)"/>
+      <a name="text" val="NitroCompute ISA (NC- 16)"/>
     </comp>
     <comp lib="8" loc="(440,1303)" name="Text">
       <a name="color" val="#8f0047"/>
@@ -557,7 +557,7 @@
     </comp>
     <comp lib="8" loc="(722,1114)" name="Text">
       <a name="color" val="#de14af"/>
-      <a name="text" val="Extended ISA (xN-ISA)"/>
+      <a name="text" val="Extended ISA (xNC - 16)"/>
     </comp>
     <comp loc="(1340,760)" name="ALU"/>
     <comp loc="(1550,580)" name="GeneralPurposeRegisters">
@@ -2086,12 +2086,12 @@
       <text dominant-baseline="central" font-family="SansSerif" font-size="12" text-anchor="middle" x="73" y="180">Clock</text>
       <polyline fill="none" points="50,176 56,180" stroke="#000000"/>
       <polyline fill="none" points="56,180 50,184" stroke="#000000"/>
+      <rect fill="none" height="20" rx="10" ry="10" stroke="#0018ff" stroke-width="4" width="20" x="50" y="30"/>
       <visible-register height="26" path="/Register(320,210)" stroke-width="0" value-font-family="Oswald" value-font-size="26" width="69" x="131" y="159"/>
       <visible-counter height="23" path="/Counter(360,1350)" stroke-width="0" value-font-family="Monospaced" value-font-size="23" value-font-weight="bold" width="15" x="132" y="266"/>
       <visible-counter height="23" path="/Counter(1060,1350)" stroke-width="0" value-font-family="Monospaced" value-font-size="23" value-font-weight="bold" width="15" x="132" y="312"/>
       <visible-counter height="23" path="/Counter(2470,1350)" stroke-width="0" value-font-family="Monospaced" value-font-size="23" value-font-weight="bold" width="15" x="133" y="401"/>
       <visible-counter height="23" path="/Counter(1710,1970)" stroke-width="0" value-font-family="Monospaced" value-font-size="23" value-font-weight="bold" width="15" x="134" y="446"/>
-      <rect fill="none" height="20" rx="10" ry="10" stroke="#0018ff" stroke-width="4" width="20" x="50" y="30"/>
       <circ-anchor facing="east" height="6" width="6" x="267" y="57"/>
       <circ-port height="10" pin="1380,140" width="10" x="265" y="75"/>
       <circ-port height="10" pin="1380,170" width="10" x="265" y="95"/>
