@@ -5146,7 +5146,7 @@
       <rect fill="none" height="99" stroke="#000000" stroke-width="3" width="220" x="50" y="49"/>
       <polyline fill="none" points="50,136 60,140" stroke="#000000"/>
       <polyline fill="none" points="50,144 60,141" stroke="#000000"/>
-      <text dominant-baseline="central" fill="#0d10ff" font-family="SansSerif" font-size="20" text-anchor="middle" x="139" y="98">Flag Registers</text>
+      <text dominant-baseline="central" fill="#0d10ff" font-family="SansSerif" font-size="20" text-anchor="middle" x="139" y="98">Status Flags</text>
       <text dominant-baseline="central" fill="#4e5cff" font-family="SansSerif" font-size="10" text-anchor="middle" x="239" y="70">CF</text>
       <text dominant-baseline="central" fill="#4e5cff" font-family="SansSerif" font-size="10" text-anchor="middle" x="239" y="100">ZF</text>
       <text dominant-baseline="central" fill="#4e5cff" font-family="SansSerif" font-size="10" text-anchor="middle" x="239" y="130">NF</text>
