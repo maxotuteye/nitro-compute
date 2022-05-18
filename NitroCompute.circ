@@ -3809,7 +3809,7 @@
     </comp>
     <comp lib="8" loc="(705,1268)" name="Text">
       <a name="font" val="SansSerif bold 21"/>
-      <a name="text" val="Two step counter for MOVR"/>
+      <a name="text" val="2+1 step counter for MOVR"/>
     </comp>
     <comp lib="8" loc="(739,679)" name="Text">
       <a name="font" val="SansSerif bolditalic 14"/>
